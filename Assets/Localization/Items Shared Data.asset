@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Items Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Items
+  m_TableCollectionNameGuidString: 200314d98977cd0478be635284d03fc6
+  m_Entries:
+  - m_Id: 19883245568
+    m_Key: ITEM_CAKE_LABEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 185046548480
+    m_Key: ITEM_GRAPE_LABEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 202150920192
+    m_Key: ITEM_APRICOT_LABEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 278793437184
+    m_Key: ITEM_MELON_LABEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 315539734528
+    m_Key: ITEM_RASPBERRIES_LABEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 373853143040
+    m_Key: ITEM_TOMATO_LABEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 405289451520
+    m_Key: ITEM_BACKPACK_LABEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 455495270400
+    m_Key: ITEM_BALL_LABEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 490190553088
+    m_Key: ITEM_FLASHLIGHT_LABEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 524902612992
+    m_Key: ITEM_LIGHTHOUSE_LABEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 565721579520
+    m_Key: ITEM_ROLLERS_LABEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 614430031872
+    m_Key: ITEM_TELEPHONE_LABEL
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3189899865433047040
+  references:
+    version: 2
+    RefIds:
+    - rid: 3189899865433047040
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1682925197243

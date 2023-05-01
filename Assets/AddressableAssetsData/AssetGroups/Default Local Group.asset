@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4fcfb2ce3353e0b4eb9f7672d3a46288
+  m_SerializeEntries:
+  - m_GUID: b133cc3a71cd82242bbbf1a540ddedeb
+    m_Address: Apricot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - eatable
+  - m_GUID: b60f664dd72a1be49810a8877b72e2d5
+    m_Address: Cake
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - eatable
+  - m_GUID: 5f6b6f0f7eb9db246b0234b24b589920
+    m_Address: Grape
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - eatable
+  - m_GUID: c328fa489072c6c4b9d17859f5ad77de
+    m_Address: Melon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - eatable
+  - m_GUID: 37d76bff414da624280fc51c62dacb18
+    m_Address: Raspberries
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - eatable
+  - m_GUID: d5d1db39853caa545aedccb7a3542353
+    m_Address: Tomato
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - eatable
+  - m_GUID: ad02c2bf19e04b543996ba8fcdf9e6b3
+    m_Address: Backpack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - noneatable
+  - m_GUID: 398f1f995c90dfa41816d3f1db818de3
+    m_Address: Ball
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - noneatable
+  - m_GUID: 9419251e3ea901646be9c5314317df18
+    m_Address: Flashlight
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - noneatable
+  - m_GUID: b61f1ffb45d731d42b019627ce822b36
+    m_Address: Lighthouse
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - noneatable
+  - m_GUID: e5023806cf476154e947b92cf126c640
+    m_Address: Rollers
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - noneatable
+  - m_GUID: 018fc8cfa43a73a4d9365b7dc7043414
+    m_Address: Telephone
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - noneatable
+  - m_GUID: 617f93a7c35a3284cb0f39933c7388ff
+    m_Address: Card
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0672b408140f60841b03b2fd2db81e3c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 429325eebe84acc40ae1ba9469fbd9c4, type: 2}
+    - {fileID: 11400000, guid: 0f27fa61e87c7b249be971a75a9ff045, type: 2}
